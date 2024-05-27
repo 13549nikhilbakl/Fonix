@@ -1,0 +1,9 @@
+{
+    "TOKEN": "MTE5Mzg4NzQwMTA1MTk2MzQ1Mw.GVIh14.QzUij_oezOdxKUHCZSLV9-bGu8v5gRCmkzfAew",
+    "MONGO_DB": "mongodb+srv://CodeXpvt:GodCodeX@codexpvt.izfnc7r.mongodb.net/?retryWrites=true&w=majority&appName=CodeXpvt",
+    "cooldown": true,
+    "owner": ["1170659343750922274",""],
+    "admin": ["1170659343750922274"],
+    "np": ["1170659343750922274"],
+    "invite": "https://discord.com/oauth2/authorize?client_id="
+}
